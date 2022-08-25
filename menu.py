@@ -34,8 +34,6 @@ def menu():
                 
                 print('Error dato invalido')
             
-    print("bienvenido al menu")
-
 
 
 
