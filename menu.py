@@ -2,8 +2,6 @@
 #  la descripcion de opción y el nombre de al función que ejecutaria dicha opción.
 
 # """------------------------Menu----------------------------"""
-from cgi import print_arguments
-
 
 def menu():
     salir = False
