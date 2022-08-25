@@ -33,15 +33,15 @@ def menu():
                 print('Error dato invalido')
                 print("Bienvenido Al Menu\n\n")
                 for x in diccionario:
-        print(f"{x}. {diccionario[x][0]}")
+                 print(f"{x}. {diccionario[x][0]}")
         salida = False 
         while (salida == False):
-        try:
-        opcion = int(input("Digite una opcion: "))
-            salida = True
+            try:
+                opcion = int(input("Digite una opcion: "))
+                salida = True
             except:
-            print('Error dato invalido')
-       return (opcion, diccionario)  
+                print('Error dato invalido')
+        return (opcion, diccionario)  
                
            
 
