@@ -39,6 +39,9 @@ def menu():
         try:
         opcion = int(input("Digite una opcion: "))
             salida = True
+            except:
+            print('Error dato invalido')
+      
                
            
 
