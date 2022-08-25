@@ -6,7 +6,7 @@ def menu():
     salir = False
     while (salir == False):
         try:
-s
+
             n = int(input("Digite el numero de opciones que tendra el menu? : \n"))
             salir = True
 
