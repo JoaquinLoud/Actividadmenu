@@ -12,6 +12,7 @@ def menu():
             print('Error dato invalido')
     diccionario = {}
     for i in range(1, n+1):
+        salir = False
 
 
 
