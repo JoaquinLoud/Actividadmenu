@@ -34,7 +34,7 @@ def menu():
                 print("Bienvenido Al Menu\n\n")
                 for x in diccionario:
         print(f"{x}. {diccionario[x][0]}")
-                
+        salida = False        
                     
            
 
