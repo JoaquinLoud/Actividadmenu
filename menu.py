@@ -20,6 +20,7 @@ def menu():
                  descripcionFun = input("Digite la descripcion de la funcion: ")
                  diccionario[i] = (descripcionFun, funcion)
                  salir = True
+             except:
 
 
 
