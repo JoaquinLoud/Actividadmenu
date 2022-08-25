@@ -17,6 +17,8 @@ def menu():
              try:
                  print("Funcion numero ", i, ":")
                  funcion = input("Digite el nombre de la funcion: ")
+                 descripcionFun = input("Digite la descripcion de la funcion: ")
+
 
 
 
