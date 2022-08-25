@@ -32,6 +32,8 @@ def menu():
                 
                 print('Error dato invalido')
                 print("Bienvenido Al Menu\n\n")
+                for x in diccionario:
+        print(f"{x}. {diccionario[x][0]}")
                 
                     
            
