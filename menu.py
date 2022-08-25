@@ -11,6 +11,7 @@ def menu():
         except:
             print('Error dato invalido')
     diccionario = {}
+    for i in range(1, n+1):
 
 
 
