@@ -16,6 +16,7 @@ def menu():
         while (salir == False):
              try:
                  print("Funcion numero ", i, ":")
+                 funcion = input("Digite el nombre de la funcion: ")
 
 
 
