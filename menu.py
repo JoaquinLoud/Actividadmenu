@@ -21,6 +21,7 @@ def menu():
                  diccionario[i] = (descripcionFun, funcion)
                  salir = True
              except:
+                print('Error dato invalido')
 
 
 
