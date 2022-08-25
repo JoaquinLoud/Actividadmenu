@@ -37,7 +37,9 @@ def menu():
         salida = False 
         while (salida == False):
         try:
-                    
+        opcion = int(input("Digite una opcion: "))
+            salida = True
+               
            
 
 
