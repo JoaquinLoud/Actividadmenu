@@ -6,10 +6,14 @@ def menu():
     salir = False
     while (salir == False):
         try:
+
             n = int(input("Digite el numero de opciones que tendra el menu? : \n"))
             salir = True
+            
         except:
+
             print('Error dato invalido')
+
     diccionario = {}
     for i in range(1, n+1):
         salir = False
