@@ -15,12 +15,15 @@ def menu():
         salir = False
         while (salir == False):
              try:
+
                  print("Funcion numero ", i, ":")
                  funcion = input("Digite el nombre de la funcion: ")
                  descripcionFun = input("Digite la descripcion de la funcion: ")
                  diccionario[i] = (descripcionFun, funcion)
                  salir = True
+
              except:
+                
                 print('Error dato invalido')
 
 
