@@ -10,6 +10,7 @@ def menu():
             salir = True
         except:
             print('Error dato invalido')
+    diccionario = {}
 
 
 
