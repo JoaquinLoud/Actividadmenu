@@ -31,7 +31,7 @@ def menu():
              except:
                 
                 print('Error dato invalido')
-            
+            print("Bienvenido Al Menu\n\n")
 
 
 
