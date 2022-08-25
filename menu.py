@@ -9,6 +9,7 @@ def menu():
         try:
 
             n = int(input("Digite el numero de opciones que tendra el menu? : \n"))
+            print("")
             salir = True
 
         except:
