@@ -19,6 +19,7 @@ def menu():
                  funcion = input("Digite el nombre de la funcion: ")
                  descripcionFun = input("Digite la descripcion de la funcion: ")
                  diccionario[i] = (descripcionFun, funcion)
+                 salir = True
 
 
 
