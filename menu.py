@@ -2,7 +2,7 @@
 #  la descripcion de opción y el nombre de al función que ejecutaria dicha opción.
 
 # """------------------------Menu----------------------------"""
-# def inicio():
+def menu():
 
 
 
