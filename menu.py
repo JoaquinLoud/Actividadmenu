@@ -15,6 +15,7 @@ def menu():
         salir = False
         while (salir == False):
              try:
+                 print("Funcion numero ", i, ":")
 
 
 
