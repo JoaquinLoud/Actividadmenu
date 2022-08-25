@@ -9,6 +9,7 @@ def menu():
             n = int(input("Digite el numero de opciones que tendra el menu? : \n"))
             salir = True
         except:
+            print('Error dato invalido')
 
 
 
