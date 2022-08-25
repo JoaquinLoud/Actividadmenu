@@ -5,6 +5,7 @@
 def menu():
     salir = False
     while (salir == False):
+        try:
 
 
 
