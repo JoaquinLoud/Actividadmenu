@@ -41,7 +41,7 @@ def menu():
             salida = True
             except:
             print('Error dato invalido')
-      
+       return (opcion, diccionario)  
                
            
 
