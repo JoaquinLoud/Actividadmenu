@@ -13,6 +13,7 @@ def menu():
     diccionario = {}
     for i in range(1, n+1):
         salir = False
+        while (salir == False):
 
 
 
